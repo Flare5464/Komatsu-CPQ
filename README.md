@@ -5,7 +5,7 @@ A Configure, Price, Quote proof of concept for Komatsu LTD while working with In
 This proof of concept was created using Unity 2017, Blender (Custom 3D models), Photoshop (Texture and Image creation). Komatsu "Blast Drill" was supplied by Komatsu LTD. Created in Q3 of 2021 while working under "Infosys LTD".
 <br />
 <br />
-Project cannot be shared due to upload limitations.
+**Project cannot be shared due to upload limitations**
 <br />
 <br />
 ## Landing
