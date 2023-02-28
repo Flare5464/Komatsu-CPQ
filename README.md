@@ -11,6 +11,7 @@ Project cannot be shared due to upload limitations.
 ## Landing
 The splash and landing page is present to give Komatsu's clients an idea of the tool they would be using, with control on how to use the application.
 ![](https://github.com/Flare5464/Komatsu-CPQ/blob/main/CPQ_A.gif)
+![](https://github.com/Flare5464/Komatsu-CPQ/blob/main/CPQ_E.gif)
 ## Main Scene
 The main scene allows the user to rotate around the large machine in a life-scaled environment. The user interface allows for the large machine's parts to be changed and adjusted. The user is able to zoom in on various focus points for closer looks. 
 ![](https://github.com/Flare5464/Komatsu-CPQ/blob/main/CPQ_B.gif)
